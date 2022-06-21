@@ -15,8 +15,9 @@ Status: ✅ 06/21/22
 
 Challenge: 
 ```
-For a given input array of numbers, find the two that result in the largest product. The output should include the two numbers in the array along with their product.
+For a given input array of positive numbers, find the two that result in the largest product. The output should include the two numbers in the array along with their product.
 ```
+Note: Does not account for negatives. Planning on adding this functionality as a seperate challenge. 
 
 ## Rev.java
 Status: ✅ 06/21/22
