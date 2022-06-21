@@ -35,3 +35,11 @@ Challenge:
 ```
 For a given user input, convert that input from lbs to kg. 
 ```
+
+## TomRiddler.java
+Status: 🚫
+
+Challenge:
+```
+For any 2 user input strings, return true if they are anagrams, return false if they are not anagrams. 
+```
