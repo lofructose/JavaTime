@@ -2,7 +2,7 @@
 I'm learning Java. Here's some programs I made. 
 
 ## Dict.java
-Status: ✅
+Status: ✅ 06/16/22
 
 Challenge:
 ```
@@ -11,7 +11,7 @@ int, byte, short, long, float, double, boolean
 ```
 
 ## ProductMaximizer.java
-Status: 🚫
+Status: ✅ 06/21/22
 
 Challenge: 
 ```
@@ -19,7 +19,7 @@ For a given input array of numbers, find the two that result in the largest prod
 ```
 
 ## Rev.java
-Status: ✅ 
+Status: ✅ 06/21/22
 
 Challenge: 
 ```
@@ -28,7 +28,7 @@ Tell Java to reverse the order of words in any given sentence of any given lengt
 Note: This was my first swing at a program that reads an input sentence and returns the words in reverse order. 
 
 ## Rev2.java
-Status: ✅ 
+Status: ✅ 06/21/22
 
 Challenge: 
 ```
@@ -37,7 +37,7 @@ Tell Java to reverse the order of words in any given sentence of any given lengt
 Note: This is the final version of the the reverser. Instead it uses a method which can take user input from the command line it is running in. 
 
 ## Scanner.java
-Status: ✅ 
+Status: ✅ 06/16/22
 
 Challenge: 
 ```
