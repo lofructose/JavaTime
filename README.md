@@ -10,6 +10,14 @@ Tell Java to return the minimum value and maximum value for each:
 int, byte, short, long, float, double, boolean
 ```
 
+## ProductMaximizer.java
+Status: 🚫
+
+Challenge: 
+```
+For a given input array of numbers, find the two that result in the largest product. The output should include the two numbers in the array along with their product.
+```
+
 ## Rev.java
 Status: ✅ 
 
